@@ -159,8 +159,6 @@ span:hover{
     background-color: rgb(217, 217, 217);
     width: 20%;
     height: 100vh;
-    position: fixed;
-    left: 0%;
     overflow-y:scroll;
     overflow-x:hidden;
 }
